@@ -1,0 +1,15 @@
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\obj\Debug\net6.0\OpenTK-4-Learning.csproj.AssemblyReference.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\obj\Debug\net6.0\OpenTK-4-Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\obj\Debug\net6.0\OpenTK-4-Learning.AssemblyInfoInputs.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\obj\Debug\net6.0\OpenTK-4-Learning.AssemblyInfo.cs
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\obj\Debug\net6.0\OpenTK-4-Learning.csproj.CoreCompileInputs.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\bin\Debug\net6.0\OpenTK-4-Learning.exe
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\bin\Debug\net6.0\OpenTK-4-Learning.deps.json
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\bin\Debug\net6.0\OpenTK-4-Learning.runtimeconfig.json
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\bin\Debug\net6.0\OpenTK-4-Learning.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\bin\Debug\net6.0\OpenTK-4-Learning.pdb
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\obj\Debug\net6.0\OpenTK-4-Learning.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\obj\Debug\net6.0\refint\OpenTK-4-Learning.dll
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\obj\Debug\net6.0\OpenTK-4-Learning.pdb
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\obj\Debug\net6.0\OpenTK-4-Learning.genruntimeconfig.cache
+C:\Users\Vondal\Documents\MeusProjetos\OpenTK-4-Learning\obj\Debug\net6.0\ref\OpenTK-4-Learning.dll
